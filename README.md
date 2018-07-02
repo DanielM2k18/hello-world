@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
+Just another repository.
 I am Daniel Marshall, a Computer Infromation Systems' Senior at Monroe College.
